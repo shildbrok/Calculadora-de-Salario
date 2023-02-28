@@ -6,7 +6,7 @@ Vamos Abordar a lógica por trás de uma calculadora de salario.
 
 Possivel Solução:
 
-
+'''
 Algoritmo "salarioCalc"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Descrição   : Exercicio 3 lista 1
@@ -87,3 +87,5 @@ fimEnquanto
 //Pode me chamar no whatsapp
 //Abraço a todos, beijo na bunda... E bons estudos!
 Fimalgoritmo
+
+'''
