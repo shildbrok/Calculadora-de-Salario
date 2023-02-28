@@ -80,7 +80,8 @@ Enquanto (resposta = "S") ou (resposta = "s") ou (resposta <> "N") e (resposta <
               Se(resposta = "N") ou (resposta = "n")
               EscrevaL("Obrigado!")
               LimpaTela
-         fimSe
+         fimse
+         fimse
 fimEnquanto
 //Esse algoritimo foi desenvolvido pensando em uma solução da lista de exercicios
 //Caso queira fazer uma sujestão de correção ou fazwer alguma pergunta,
